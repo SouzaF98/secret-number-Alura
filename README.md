@@ -9,8 +9,7 @@
 
 Projeto desenvolvido durante o curso de **Lógica de Programação** da **Alura**. O objetivo é adivinhar um número secreto gerado aleatoriamente pelo computador, com suporte a narração por voz (ResponsiveVoice) a cada tentativa!
 
-👉 **[CLICA AQUI PARA JOGAR AGORA][https://souzaf98.github.io/secret-number-Alura/](https://souzaf98.github.io/secret-number-Alura/)** 👈
-
+👉 **[CLICA AQUI PARA JOGAR AGORA](https://souzaf98.github.io/secret-number-Alura/)** 👈
 ---
 
 ## 📋 Índice
